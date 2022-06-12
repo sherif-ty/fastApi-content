@@ -1,5 +1,5 @@
 # fastApi-content
-filter content with get requiest
-to run the app
-pip install -r req.txt
-uvicorn main:app --reload
+filter content with get requiest <br>
+to run the app <br>
+pip install -r req.txt <br>
+uvicorn main:app --reload <br>
